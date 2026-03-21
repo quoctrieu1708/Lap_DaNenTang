@@ -1,6 +1,6 @@
 # 📱 Flutter Learning Journey: 9 Labs Collection
 
-Dự án này tổng hợp kết quả học tập từ Lab 1 đến Lab 9 trong chương trình phát triển ứng dụng di động với Flutter. Dự án được thực hiện bởi nhóm 2 thành viên.
+Dự án này tổng hợp kết quả học tập từ Lab 1 đến Lab 9 trong chương trình phát triển ứng dụng di động với Flutter
 
 ## 👥 Người Thực Hiện
 *  Nguyễn Văn Quốc Triệu
